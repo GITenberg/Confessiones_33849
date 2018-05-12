@@ -1,0 +1,51 @@
+_repo: Confessiones_33849
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Augustine, Saint, Bishop of Hippo
+    alias: Augustine, Saint
+    birthdate: 354
+    deathdate: 430
+    gutenberg_agent_id: '1156'
+    url: http://www.gutenberg.org/2009/agents/1156
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_of_Hippo
+  editors:
+  - agent_name: Pusey, E. B. (Edward Bouverie)
+    aliases:
+    - Pusey, Edward B. (Edward Bouverie)
+    - Pusey, Edward Bouverie
+    birthdate: 1800
+    deathdate: 1882
+    gutenberg_agent_id: '1157'
+    url: http://www.gutenberg.org/2009/agents/1157
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bouverie_Pusey
+  - agent_name: Du Bois, Philippe Goibaud, sieur
+    aliases:
+    - Bois, Philippe Goibaud du, sieur
+    - Dubois-Goibaud, Philippe
+    - Dubois, M.
+    - Goibaut du Bois, Philippe
+    birthdate: 1626
+    deathdate: 1694
+    gutenberg_agent_id: '36711'
+    url: http://www.gutenberg.org/2009/agents/36711
+description: ''
+gutenberg_issued: '2010-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33849'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Augustine, Saint, Bishop of Hippo'
+- !lcsh 'Christian saints -- Algeria -- Hippo (Extinct city) -- Biography'
+- !lcc 'BR'
+- !lcsh 'Catholic Church -- Bishops -- Biography'
+- !lcsh 'Bishops -- Algeria -- Hippo (Extinct city) -- Biography'
+title: Confessiones
+url: http://www.gutenberg.org/ebooks/33849
